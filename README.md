@@ -1,4 +1,4 @@
-# THE-COMPLETE-AI-POWERED-DEVELOPER-HANDBOOK
+# THE AI POWERED DEVELOPER HANDBOOK
 From Zero to Senior Engineer with AI Assistance
 Your comprehensive guide to modern software development, AI-powered workflows, and career acceleration
 
